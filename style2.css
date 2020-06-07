@@ -1,0 +1,68 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Piedra', cursive;
+}
+.bgimg{
+	width: 100%;
+	height: 100vh;
+	background-image: linear-gradient(27deg ,#004E95 50% , #013A6B 50%);
+}
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	font-size: 100px;
+	margin-top: 50px;
+	color: #fff;
+}
+#amazon{
+	width: 260px;
+	height: 150px;
+}
+#flipkart{
+	width: 260px;
+	height: 150px;
+}
+#banggood{
+	width: 260px;
+	height: 150px;
+}
+#aliexpress{
+	width: 260px;
+	height: 150px;
+}
+#ebay{
+	width: 260px;
+	height: 150px;
+}
+#myntra{
+	width: 260px;
+	height: 150px;
+}
+#alibaba{
+	width: 260px;
+	height: 150px;
+}
+#snapdeal{
+	width: 260px;
+	height: 150px;
+}
+#shopcules{
+	width: 260px;
+	height: 150px;
+}
+#jabong{
+	width: 260px;
+	height: 150px;
+}
+.firstrow{
+	display: flex;
+	justify-content: space-around;
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
+.secondrow{
+	display: flex;
+	justify-content: space-around;
+}
